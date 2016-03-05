@@ -4,6 +4,7 @@ The missing utility functions for JavaScript, inspired by php, ruby, python buil
 [![Build Status](https://travis-ci.org/faressoft/utilityjs.svg?branch=master)](https://travis-ci.org/faressoft/utilityjs)
 [![npm](https://img.shields.io/npm/v/utilityjs.svg)](https://www.npmjs.com/package/utilityjs)
 [![npm](https://img.shields.io/npm/l/utilityjs.svg)](https://github.com/faressoft/utilityjs/blob/master/LICENSE)
+[![Join the chat at https://gitter.im/faressoft/utilityjs](https://badges.gitter.im/faressoft/utilityjs.svg)](https://gitter.im/faressoft/utilityjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Installation
 You have many options to install UtilityJS
