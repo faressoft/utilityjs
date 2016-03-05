@@ -1,9 +1,10 @@
 # UtilityJS
 
 [![Build Status](https://travis-ci.org/faressoft/utilityjs.svg?branch=master)](https://travis-ci.org/faressoft/utilityjs)
+[![Coverage Status](https://coveralls.io/repos/github/faressoft/utilityjs/badge.svg?branch=master)](https://coveralls.io/github/faressoft/utilityjs?branch=master)
 [![npm](https://img.shields.io/npm/v/utilityjs.svg)](https://www.npmjs.com/package/utilityjs)
-[![npm](https://img.shields.io/npm/l/utilityjs.svg)](https://github.com/faressoft/utilityjs/blob/master/LICENSE)
 [![Join the chat at https://gitter.im/faressoft/utilityjs](https://badges.gitter.im/faressoft/utilityjs.svg)](https://gitter.im/faressoft/utilityjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![npm](https://img.shields.io/npm/l/utilityjs.svg)](https://github.com/faressoft/utilityjs/blob/master/LICENSE)
 
 The missing utility functions for JavaScript. Inspired by the built-in functions of
 - PHP
