@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/faressoft/utilityjs/issues"
   },
-  "homepage": "https://github.com/faressoft/utilityjs#readme"
+  "homepage": "https://github.com/faressoft/utilityjs#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jscs": "^2.11.0",
+    "mocha": "^2.4.5"
+  }
 }
