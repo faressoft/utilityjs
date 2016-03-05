@@ -4,7 +4,7 @@
   "description": "The missing utility functions for JavaScript",
   "main": "lib/utilityjs.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha ./test"
+    "test": "./node_modules/mocha/bin/mocha ./test && ./node_modules/jscs/bin/jscs ./lib/utilityjs.js"
   },
   "repository": {
     "type": "git",
