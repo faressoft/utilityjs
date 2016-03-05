@@ -32,7 +32,7 @@ var u = require('utilityjs');
 ##### AMD (RequireJS)
 ```js
 require(['lib/utilityjs.js'], function(u) {
-    ...
+    // Do your magic here
 });
 ```
 
