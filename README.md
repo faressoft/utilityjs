@@ -7,36 +7,36 @@ The missing utility functions for JavaScript, inspired by php, ruby, python buil
 
 ## Installation
 You have many options to install UtilityJS
-#### Using NPM
+##### Using NPM
 ```
 $ npm install utilityjs --save
 ```
 
-#### Using Bower
+##### Using Bower
 ```
 $ bower install utilityjs --save
 ```
 
-#### Using Git
+##### Using Git
 ```
 $ git clone "https://github.com/faressoft/utilityjs.git"
 ```
 
 ## Usage
 Can be used with node.js, amd and in the browser.
-#### Node.js
+##### Node.js
 ```js
 var u = require('utilityjs');
 ```
 
-#### AMD (RequireJS)
+##### AMD (RequireJS)
 ```js
 require(['lib/utilityjs.js'], function(u) {
     ...
 });
 ```
 
-#### Browser
+##### Browser
 - You have to include UtilityJS in your document.
 - Then you can use its api through the object `u`.
 ```html
