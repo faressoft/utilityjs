@@ -57,5 +57,13 @@
     "validateQuoteMarks": {
         "mark": "'",
         "escape": true
+    },
+    "jsDoc": {
+        "checkRedundantAccess": true,
+        "checkTypes": true,
+        "requireNewlineAfterDescription": true,
+        "requireParamDescription": true,
+        "requireParamTypes": true,
+        "requireReturnTypes": true
     }
 }
