@@ -5,7 +5,7 @@ The missing utility functions for JavaScript, inspired by php, ruby, python buil
 [![npm](https://img.shields.io/npm/v/utilityjs.svg)](https://www.npmjs.com/package/utilityjs)
 [![npm](https://img.shields.io/npm/l/utilityjs.svg)](https://github.com/faressoft/utilityjs/blob/master/LICENSE)
 
-## Installation
+# Installation
 You have many options to install UtilityJS
 ##### Using NPM
 ```
@@ -22,7 +22,7 @@ $ bower install utilityjs --save
 $ git clone "https://github.com/faressoft/utilityjs.git"
 ```
 
-## Usage
+# Usage
 Can be used with node.js, amd and in the browser.
 ##### Node.js
 ```js
@@ -43,5 +43,11 @@ require(['lib/utilityjs.js'], function(u) {
 <script src="lib/utilityjs.js" type="text/javascript"></script>
 ```
 
-## License
+# Testing
+To run tests use the following command, but make sure you that all the `devDependencies` are installed.
+```
+$ npm test
+```
+
+# License
 MIT © Mohammad Fares
