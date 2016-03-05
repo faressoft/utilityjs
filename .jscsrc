@@ -58,12 +58,18 @@
         "mark": "'",
         "escape": true
     },
+    "requireCapitalizedComments": true,
+    requireSpaceAfterLineComment: { "allExcept": ["//////////////////////////////////////////////////"] },
     "jsDoc": {
+        "checkAnnotations": true,
         "checkRedundantAccess": true,
         "checkTypes": true,
         "requireNewlineAfterDescription": true,
+        "checkParamExistence": true,
+        "checkParamNames": true,
         "requireParamDescription": true,
         "requireParamTypes": true,
+        "checkRedundantParams": true,
         "requireReturnTypes": true
     }
 }
