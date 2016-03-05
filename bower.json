@@ -1,0 +1,34 @@
+{
+  "name": "utilityjs",
+  "description": "The missing utility functions for JavaScript",
+  "main": "index.js",
+  "authors": [
+    "Mohammad Fares <faressoft.com@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "php",
+    "ruby",
+    "python",
+    "utility",
+    "functions",
+    "helper",
+    "array",
+    "string",
+    "object",
+    "number"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faressoft/utilityjs.git"
+  },
+  "homepage": "https://github.com/faressoft/utilityjs",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
