@@ -62,7 +62,7 @@
     "jsDoc": {
         "checkAnnotations": true,
         "checkRedundantAccess": true,
-        "checkTypes": true,
+        "checkTypes": "capitalizedNativeCase",
         "requireNewlineAfterDescription": true,
         "checkParamExistence": true,
         "checkParamNames": true,
